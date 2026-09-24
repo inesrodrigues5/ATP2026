@@ -1,4 +1,3 @@
-<img width="852" height="1846" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/5d143526-db2a-4393-98de-8bfeb5c462a0" /># TPC1 : Imagem do barco e exercício nível 10 turtle
 
 ## Autor
 
@@ -6,7 +5,7 @@
 
 **ID:** A112591
 
-<img width="53,25" height="115,4" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/3f6d06bb-e8b8-4cea-a002-84f5b6606dea" />
+<img width="213" height="461,5" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/3f6d06bb-e8b8-4cea-a002-84f5b6606dea" />
 
 
 
