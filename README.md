@@ -6,7 +6,7 @@
 
 **ID:** A112591
 
-<img width="852" height="1846" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/3f6d06bb-e8b8-4cea-a002-84f5b6606dea" />
+<img width="213" height="461,5" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/3f6d06bb-e8b8-4cea-a002-84f5b6606dea" />
 
 
 
