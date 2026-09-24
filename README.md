@@ -5,16 +5,10 @@
 
 **ID:** A112591
 
-<img width="213" height="461,5" alt="WhatsApp Image 2026-09-24 at 13 51 32" src="https://github.com/user-attachments/assets/3f6d06bb-e8b8-4cea-a002-84f5b6606dea" />
-
-
-
+<img width="158" height="287" alt="Captura de ecrã 2026-09-24 165716" src="https://github.com/user-attachments/assets/b20f62b4-b9ff-48d4-96ea-cae3dec4a308" />
 
 ## Resumo
 Nesta atividade foram realizados dois desafios no Blockly Games: a resolução do nível 10 do jogo Maze e a recriação de uma figura indicada pelo professor através do jogo Turtle, recorrendo aos diferentes blocos de programação disponíveis na plataforma.
-
-
-
 
 
 ## Resultados
