@@ -1,3 +1,4 @@
+[TPC2 (5).py](https://github.com/user-attachments/files/32878913/TPC2.5.py)
 
 ## Autor
 
@@ -12,4 +13,5 @@ Nesta atividade foi-nos dado o desafio de criar um programa em Python para jogar
 Este jogo tem 2 modalidades: na primeira é o computador que pensa no número, entre 0 e 100, e o utilizador tenta adivinhar. Já na segunda é o utilizador que pensa num número, também entre 0 e 100, e desta vez é o computador que tenta adivinhar. Quando o número estiver certo, o programa irá apresentar o número de tentativas necessárias para chegar à resposta final. Quem pensou no número responde com: "acertou", "o número que pensei é maior" ou "o número que pensei é menor".
 
 ## Resultados
+[TPC2 (5).py](https://github.com/user-attachments/files/32878919/TPC2.5.py)
 
