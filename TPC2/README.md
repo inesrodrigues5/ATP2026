@@ -1,4 +1,3 @@
-[TPC2 (5).py](https://github.com/user-attachments/files/32878913/TPC2.5.py)
 
 ## Autor
 
