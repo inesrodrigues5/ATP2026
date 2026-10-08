@@ -13,4 +13,4 @@ Nesta atividade foi-nos dado o desafio de criar um programa em Python para jogar
 
 ## Resultados
 [TPC3.py](TPC3.py)
-
+[TPC3.ipynb](https://github.com/user-attachments/files/33206362/TPC3.ipynb)
