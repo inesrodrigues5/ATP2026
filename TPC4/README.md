@@ -10,4 +10,4 @@
 Nesta atividade foi-nos dado o desafio de criar uma aplicação em Python para trabalhar a manipulação de listas de números inteiros.
 
 ## Resultados
-[
+[TPC4.py](https://github.com/inesrodrigues5/ATP2026/blob/main/TPC4/TPC4.py)
