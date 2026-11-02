@@ -10,4 +10,4 @@
 Nesta atividade foi-nos dado o desafio de criar uma aplicação em Python para gestão de alunos de uma turma.
 
 ## Resultados
-[TPC5.py](https://github.com/user-attachments/files/34251962/TPC5.py)
+[TPC5 (1).py](https://github.com/user-attachments/files/34252008/TPC5.1.py)
