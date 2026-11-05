@@ -10,5 +10,5 @@
 Nesta atividade foi-nos dado o desafio de criar uma aplicaçãpo em Python com todas as funcionalidades enumeradas na aula prática 6.
 
 ## Resultado
-[TPC6.py]([TPC6.py](https://github.com/user-attachments/files/34420834/TPC6.py)
+[TPC6.py](https://github.com/user-attachments/files/34420834/TPC6.py)
 
